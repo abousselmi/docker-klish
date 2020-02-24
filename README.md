@@ -1,5 +1,5 @@
 # docker-klish
-A docker image for the klish CLI (for testing)
+A docker image for the klish CLI (for testing). The klish is a framework for implementing a CISCO-like CLI on a UNIX systems. It is configurable by XML files. The KLISH stands for Kommand Line Interface Shell.
 
 ## Build the docker image
 
